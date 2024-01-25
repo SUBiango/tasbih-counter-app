@@ -131,11 +131,8 @@ background-clip: padding-box;
 }
 
 @media  only screen and (max-width: 600px) {
-    h1 {
-        
+    h1 { 
         font-size: 2.5rem;
-        font-weight: 700;
         margin-top: -3rem;
-        margin-bottom: 1rem;
     }
 }
